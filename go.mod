@@ -1,3 +1,3 @@
-module github.com/nikionov/TogetherWebApplication
+module github.com/nikionov/togetherAP
 
 go 1.14
